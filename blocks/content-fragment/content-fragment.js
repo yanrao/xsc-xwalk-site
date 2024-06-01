@@ -1,5 +1,5 @@
 // put your AEM publish address here
-const AEM_HOST = "https://author-p115763-e1135243.adobeaemcloud.com";
+const AEM_HOST = "//author-p115763-e1135243.adobeaemcloud.com";
 
 export default function decorate(block) {
 
