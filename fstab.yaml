@@ -1,6 +1,6 @@
 mountpoints:
   #/: https://drive.google.com/drive/folders/1OulF2dpGr3f_1YVlRpuzhyVuQKCHOc1k
-  /: https://adobe-my.sharepoint.com/:f:/r/personal/yrao_adobe_com/Documents/Edge%20Delivery%20Services/Sites/xsc-xwalk-site?csf=1&web=1&e=QDhlGO
+  #/: https://adobe-my.sharepoint.com/:f:/r/personal/yrao_adobe_com/Documents/Edge%20Delivery%20Services/Sites/xsc-xwalk-site?csf=1&web=1&e=QDhlGO
   /:
     url: https://author-p115763-e1135243.adobeaemcloud.com/bin/franklin.delivery/yanrao/xsc-xwalk-site/main
     type: markup
